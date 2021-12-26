@@ -28,6 +28,4 @@ You need to have python installed in your system. Then you can do "python .\mana
 3. Farha Jabin Oyshee
 4. Shahriar Mahmud Anik
 5. Syeda Nazia Haque
-6. Mim Islam
-
 
